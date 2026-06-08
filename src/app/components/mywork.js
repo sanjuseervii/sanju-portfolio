@@ -48,6 +48,15 @@ const Works = () => {
     techStack: ["next.js", "nodejs", "API Integration", "MongoDB atlas" ],
     image: "/projects/buy-me-a-tea.png",
     link: "https://getmetea.vercel.app/"
+  },
+  {
+    id: 6,
+    title: "customer churn prediction model ",
+    category: "ml model ",
+    description: "This project is a complete Machine Learning pipeline designed to predict customer churn in a telecommunications dataset. The primary business objective was to maximize the Recall of the minority class (Churners) without drastically hurting Precision. By doing so, the model ensures that the company can proactively identify and retain at-risk customers, saving significant customer acquisition costs.",
+    techStack: ["python", "pandas","numpy","scikit-learn","data visulaization","xgboost" ],
+    image: "/projects/churnpredict.png",
+    link: "https://github.com/sanjuseervii/churn-prediction"
   }
 
   ];
