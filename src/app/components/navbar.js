@@ -8,7 +8,7 @@ const Navbar = () => {
         
         {/* Brand Name / Logo */}
         <div className="text-2xl font-bold text-cyan-400 tracking-wider">
-          <a href="#">Sanjana</a>
+          <h1><a href="#">Sanjana portfolio </a></h1>
         </div>
 
         {/* Navigation Links */}
