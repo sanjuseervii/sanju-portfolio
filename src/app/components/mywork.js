@@ -58,6 +58,15 @@ const Works = () => {
     image: "/projects/churnpredict.png",
     link: "https://github.com/sanjuseervii/churn-prediction"
   }
+  ,{
+    id: 7,
+    title: "heart disease predictor ",
+    category: "ml model",
+    discription:"A robust, medical-centric, and optimized Machine Learning web application built using Streamlit and Python to predict coronary heart disease risk based on patient clinical metrics This project showcases full-cycle data engineering—moving from a highly overfitted baseline model caused by data noise to a statistically validated, stable, and production-ready system.",
+    techStack: ["python", "pandas","numpy","scikit-learn","data visulaization","machine learning" ],
+    image: "/projects/heart.png",
+    link: "https://github.com/sanjuseervii/heart-disease-predictor"
+  }
 
   ];
 
