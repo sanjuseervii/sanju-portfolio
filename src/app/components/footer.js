@@ -12,10 +12,10 @@ const Footer = () => {
         {/* Left Side: Brand & Copyright */}
         <div className="text-center md:text-left">
           <span className="text-2xl font-bold text-white tracking-wider block mb-2">
-            Sanjana<span className="text-blue-500">.</span>
+            Sanju<span className="text-blue-500">.</span>
           </span>
           <p className="text-sm">
-            © {currentYear} Sanjana. All rights reserved.
+            © {currentYear} Sanju. All rights reserved.
           </p>
           <p className="text-xs mt-1 text-slate-500">
             Crafted with React & Tailwind CSS.

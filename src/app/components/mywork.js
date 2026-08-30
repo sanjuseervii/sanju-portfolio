@@ -52,9 +52,9 @@ const Works = () => {
   {id: 6,
     title: "financity -side hustle recommenenadtion system  ",
     category: "machine learning  model, full stack development ",
- description:"Developed a full-stack web application that predicts and recommends the top 3 side hustles for users using a Random Forest machine learning model. The platform includes secure Google Authentication and an integrated Gemini AI chatbot for real-time assistance.",
+     description:"Developed a full-stack web application that predicts and recommends the top 3 side hustles for users using a Random Forest machine learning model. The platform includes secure Google Authentication and an integrated Gemini AI chatbot for real-time assistance.",
     techStack: ["react.js","python", "pandas","numpy","scikit-learn","data visulaization","mern stack" ],
-    image: "/projects/F-Copy.png",
+    image: "/projects/financity.png",
     link: "finnacity-six.vercel.app"
 
   },

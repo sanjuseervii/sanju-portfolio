@@ -37,11 +37,11 @@ const hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
-            Hi, I'm <span className="text-blue-600">Sanjana.</span>
+            Hi, I'm <span className="text-blue-600">Sanju devi.s </span>
           </h1>
           
           <h2 className="text-3xl md:text-4xl font-bold text-slate-700 mb-6">
-            Web Developer <span className="text-slate-400 font-light">&</span> <br className="hidden md:block" /> Data Scientist
+            data scientist  <span className="text-slate-400 font-light">&</span> <br className="hidden md:block" /> web developer
           </h2>
           
           <p className="text-lg text-slate-600 mb-10 max-w-xl mx-auto md:mx-0 leading-relaxed">
