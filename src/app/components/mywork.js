@@ -49,23 +49,24 @@ const Works = () => {
     image: "/projects/buy-me-a-tea.png",
     link: "https://getmetea.vercel.app/"
   },
+  {id: 6,
+    title: "financity -side hustle recommenenadtion system  ",
+    category: "machine learning  model, full stack development ",
+ description:"Developed a full-stack web application that predicts and recommends the top 3 side hustles for users using a Random Forest machine learning model. The platform includes secure Google Authentication and an integrated Gemini AI chatbot for real-time assistance.",
+    techStack: ["react.js","python", "pandas","numpy","scikit-learn","data visulaization","mern stack" ],
+    image: "/projects/F-Copy.png",
+    link: "finnacity-six.vercel.app"
+
+  },
+
   {
-    id: 6,
+    id: 7,
     title: "customer churn prediction model ",
     category: "ml model ",
     description: "This project is a complete Machine Learning pipeline designed to predict customer churn in a telecommunications dataset. The primary business objective was to maximize the Recall of the minority class (Churners) without drastically hurting Precision. By doing so, the model ensures that the company can proactively identify and retain at-risk customers, saving significant customer acquisition costs.",
     techStack: ["python", "pandas","numpy","scikit-learn","data visulaization","xgboost" ],
     image: "/projects/churnpredict.png",
     link: "https://github.com/sanjuseervii/churn-prediction"
-  }
-  ,{
-    id: 7,
-    title: "heart disease predictor ",
-    category: "ml model",
-    discription:"A robust, medical-centric, and optimized Machine Learning web application built using Streamlit and Python to predict coronary heart disease risk based on patient clinical metrics This project showcases full-cycle data engineering—moving from a highly overfitted baseline model caused by data noise to a statistically validated, stable, and production-ready system.",
-    techStack: ["python", "pandas","numpy","scikit-learn","data visulaization","machine learning" ],
-    image: "/projects/heart.png",
-    link: "https://github.com/sanjuseervii/heart-disease-predictor"
   }
 
   ];
